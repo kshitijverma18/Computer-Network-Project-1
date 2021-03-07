@@ -7,5 +7,5 @@ a particular webpage http://info.in2p3.fr/
 
 
  
-## To Compile the code: gcc -o http_proxy_download http_proxy_download.c
-## To Run the code: ./http_proxy_download.out info.in2p3.fr 182.75.45.22 13128 csf303 csf303 index.html logo.gif
+#### To Compile the code: gcc -o http_proxy_download http_proxy_download.c
+#### To Run the code: ./http_proxy_download.out info.in2p3.fr 182.75.45.22 13128 csf303 csf303 index.html logo.gif
