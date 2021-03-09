@@ -5,7 +5,7 @@ The GET request is then sent to the proxy to download the webpage. The header me
 location of the new redirected webpage is generated and the message to fetch webpage from the new redirected location is again sent. The code also downloads the logo of 
 a particular webpage http://info.in2p3.fr/
 
-#### The Code takes the following arguments:
+## The Code takes the following arguments:
 1. Name of the Webpage (Without http): 
 2. Proxy IP address
 3. Proxy Port Number
