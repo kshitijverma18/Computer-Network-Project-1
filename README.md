@@ -13,6 +13,8 @@ a particular webpage http://info.in2p3.fr/
 5. Password for Proxy Authentication
 6. Name of the downloaded html file
 7. Name of the downloaded logo
- 
-#### To Compile the code: gcc -o http_proxy_download http_proxy_download.c
-#### To Run the code: ./http_proxy_download.out info.in2p3.fr 182.75.45.22 13128 csf303 csf303 index.html logo.gif
+## Usage
+#### Compile using : <pre><code>gcc -o http_proxy_download http_proxy_download.c</code></pre>
+
+#### To Run the code: <pre><code>./http_proxy_download.out info.in2p3.fr 182.75.45.22 13128 csf303 csf303 index.html logo.gif</code></pre>
+
