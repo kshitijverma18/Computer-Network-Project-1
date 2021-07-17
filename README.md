@@ -1,4 +1,4 @@
-# Computer-Network
+# Computer-Network-Project-1
 This is a socket program written in C without the use of high level libraries like Curl to download a webpage through Proxy. The program creates a socket between the device
 and the Squid Proxy server using the IP address and port number of the proxy server. The proxy requires username and password authentication in base 64 encoded format. 
 The GET request is then sent to the proxy to download the webpage. The header message is read and checked for redirection. If the re-direction is required, the absolute 
